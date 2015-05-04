@@ -1,4 +1,3 @@
-# recover
 recovers jpeg images 
 /**
  * recover.c
